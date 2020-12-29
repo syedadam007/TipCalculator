@@ -19,13 +19,8 @@ Time spent: **3** hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/FqgWneoUEk.gif' title='Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/m1jXtSM2OcEEX1oNdP/giphy.gif' title='Tesla Website' width='' alt='Tesla Website' />
 
-GIF created with [RecordIt]
-
-## Notes
-
-https://gyazo.com/70fd5457afbec5d9f54c2a9e3f74ce52
 
 ## License
 
