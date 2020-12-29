@@ -19,21 +19,15 @@ Time spent: **3** hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/m1jXtSM2OcEEX1oNdP/giphy.gif' title='Tesla Website' width='' alt='Tesla Website' />
+<img src='http://g.recordit.co/FqgWneoUEk.gif' title='Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [RecordIt]
+
+## Notes
+
+https://gyazo.com/70fd5457afbec5d9f54c2a9e3f74ce52
 
 
 ## License
 
     Copyright [2020] [Syed Adam]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
